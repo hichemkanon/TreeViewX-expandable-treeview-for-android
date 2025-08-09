@@ -26,4 +26,5 @@ android {
 }
 
 dependencies {
+    implementation 'com.github.hichemkanon:TreeViewX:v1.0.0'
 }
