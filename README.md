@@ -21,7 +21,7 @@ TreeViewX is a **pure Java Android TreeView component** with full programmatic c
 ## 📦 Installation
 Copy the `treeview/` package into your project:
 ```
-com.yourpackage.ui.treeview
+com.hichem.soft.tree.view
  ├── TreeNode.java
  ├── TreeRoot.java
  ├── ObjectTreeAdapter.java
@@ -126,4 +126,4 @@ This project is licensed under the MIT License. You are free to use it in commer
 
 ## ☕ Support
 If you like this library and want to support its development:
-[**Buy me a coffee**](YOUR_BUY_ME_A_COFFEE_LINK)
+[**Buy me a coffee**](buymeacoffee.com/hichem_soft_dev)
