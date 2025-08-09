@@ -1,6 +1,6 @@
 # TreeViewX
 
-[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-orange)](buymeacoffee.com/hichem_soft_dev)
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20me%20a%20coffee-orange)](https://buymeacoffee.com/hichem_soft_dev)
 
 TreeViewX is a **pure Java Android TreeView component** with full programmatic customization and **no XML or AndroidX dependencies**. It supports **any object type** as node data, expandable/collapsible hierarchy, custom icons, colored lines between parent & child, and JSON import/export.
 
@@ -126,4 +126,4 @@ This project is licensed under the MIT License. You are free to use it in commer
 
 ## ☕ Support
 If you like this library and want to support its development:
-[**Buy me a coffee**](buymeacoffee.com/hichem_soft_dev)
+[**Buy me a coffee**](https://buymeacoffee.com/hichem_soft_dev)
